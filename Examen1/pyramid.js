@@ -1,3 +1,5 @@
+// Modelo 3d:https://www.geogebra.org/m/c2cxjdyc
+
 let projectionMatrix = null, shaderProgram = null;
 
 let shaderVertexPositionAttribute = null, shaderVertexColorAttribute = null, shaderProjectionMatrixUniform = null, shaderModelViewMatrixUniform = null;
