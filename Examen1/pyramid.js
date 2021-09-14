@@ -143,9 +143,9 @@ function createPyramid(gl, translation, rotationAxis)
     //Lado de base 1 
     0,10.39,0,
     0,8.66,2.45,
-    -1.75,7.79,0,
+    -1.5,7.79,0,
 
-    -1.75, 7.79,0,
+    -1.5, 7.79,0,
     -1.5, 6.06, 2.45,
     -3,5.2,0,
 
